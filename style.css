@@ -1,0 +1,19 @@
+#map {
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+  }
+  button{
+      height: 50px;
+      width: 100px;
+      background: black;
+      color: white;
+      border: 1px solid black;
+      border-radius: 10px;
+  }
+  #btn:hover{
+    background: gray;
+    color: black;
+    transition: 1s;
+    cursor: pointer;
+  }
